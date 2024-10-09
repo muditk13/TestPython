@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return "Hello Team! Mudit here, lets test this"
+    return "Hello Team! Mudit here"
